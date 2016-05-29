@@ -1,4 +1,4 @@
-###Simple Express Server
+###Simple Express Server by devslopes
 
 The point of this simple express server is to allow front-end developers the ability to quickly serve test data via HTTP to the front-end.
 
